@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656656706374",
+    "project_id": "tirthyatri-a4134",
+    "storage_bucket": "tirthyatri-a4134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656656706374:android:ee7eef7910ad698bd89347",
+        "android_client_info": {
+          "package_name": "com.example.tirthyatri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656656706374-tkkb5lr8sg2kfq742jc3j2l1i2ru6kff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tirthyatri",
+            "certificate_hash": "b255054821537b2b7eacf3d16a9a983f0940a68f"
+          }
+        },
+        {
+          "client_id": "656656706374-eraei83r6haeq4sr93f801vdu84j2hbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8KRhItMcOt0s1sa-gdc76UO0BEkwtIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656656706374-eraei83r6haeq4sr93f801vdu84j2hbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
